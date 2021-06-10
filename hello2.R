@@ -1,2 +1,2 @@
 # print hello world part 2
-print("This os sp cool I am learning github!")
+print("This is so cool I am learning github!")
